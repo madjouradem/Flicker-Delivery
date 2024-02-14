@@ -24,11 +24,11 @@ Empower your hustle. Streamline your deliveries. Maximize your earnings with Fli
 
 
 ## Screenshots ️
-![image0](images/Screenshot_1707923484.jpg)
-![image1](images/Screenshot_1707924216.jpg)
-![image2](images/Screenshot_1707923012.jpg)
-![image3](images/Screenshot_1707923025.jpg)
-![image4](images/Screenshot_1707923771.jpg)
+![image0](images/Screenshot_1707923484.png)
+![image1](images/Screenshot_1707924216.png)
+![image2](images/Screenshot_1707923012.png)
+![image3](images/Screenshot_1707923025.png)
+![image4](images/Screenshot_1707923771.png)
 
 
 
